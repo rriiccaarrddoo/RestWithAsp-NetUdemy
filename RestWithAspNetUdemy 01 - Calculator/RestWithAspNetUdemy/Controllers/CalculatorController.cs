@@ -107,7 +107,7 @@ namespace RestWithAspNetUdemy.Controllers
             return BadRequest("Input Invalid.");
         }
 
-        // Converte uma string recebida no metodo GET em Decimal
+        // Converte uma string recebida no verbo GET em Decimal
         private decimal ConvertNumber(string number)
         {
             decimal convertNumber;
@@ -120,6 +120,7 @@ namespace RestWithAspNetUdemy.Controllers
             return 0;
         }
 
+        // Confirma se o valor recebido no verbo GET pode ser um decimal
         private bool IsNumeric(string number)
         {
             decimal convertNumber;
