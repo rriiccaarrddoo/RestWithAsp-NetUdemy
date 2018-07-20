@@ -12541,11 +12541,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ricar\\OneDrive\\Udemy\\RESTFul API\\RestWithAsp-NetUdemy\\RestWithAspNetUdemy\\RestWithAspNetUdemy\\RestWithAspNetUdemy.csproj",
+      "projectUniqueName": "C:\\Users\\ricar\\OneDrive\\Udemy\\RESTFul API\\RestWithAsp-NetUdemy\\RestWithAspNetUdemy 01 - Calculator\\RestWithAspNetUdemy\\RestWithAspNetUdemy.csproj",
       "projectName": "RestWithAspNetUdemy",
-      "projectPath": "C:\\Users\\ricar\\OneDrive\\Udemy\\RESTFul API\\RestWithAsp-NetUdemy\\RestWithAspNetUdemy\\RestWithAspNetUdemy\\RestWithAspNetUdemy.csproj",
+      "projectPath": "C:\\Users\\ricar\\OneDrive\\Udemy\\RESTFul API\\RestWithAsp-NetUdemy\\RestWithAspNetUdemy 01 - Calculator\\RestWithAspNetUdemy\\RestWithAspNetUdemy.csproj",
       "packagesPath": "C:\\Users\\ricar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ricar\\OneDrive\\Udemy\\RESTFul API\\RestWithAsp-NetUdemy\\RestWithAspNetUdemy\\RestWithAspNetUdemy\\obj\\",
+      "outputPath": "C:\\Users\\ricar\\OneDrive\\Udemy\\RESTFul API\\RestWithAsp-NetUdemy\\RestWithAspNetUdemy 01 - Calculator\\RestWithAspNetUdemy\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
